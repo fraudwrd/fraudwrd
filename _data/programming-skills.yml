@@ -1,6 +1,6 @@
 - name: Livery Design
   percentage: 50
-  color: dark
+  color: light
 
 - name: Luau Programming
   percentage: 25
