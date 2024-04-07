@@ -5,3 +5,11 @@
 - name: Moderation
   percentage: 90
   color: info
+
+- name: Livery Design
+  percentage: 50
+  color: secondary
+
+  - name: Luau Programming 
+  percentage: 25
+  color: dark
