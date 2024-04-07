@@ -1,9 +1,9 @@
 ---
 title: Test Blog
-tags: [:3c]
+tags: [Testing]
 style: 
 color: 
-description: :3 :3 :3 :3 :3
+description: This post is just so I can test how to work this
 ---
 
 Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
