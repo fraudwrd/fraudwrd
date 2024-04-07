@@ -53,7 +53,7 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /my-work/:name
+    permalink: /projects/:name
 
 
 ### Disqus ###
