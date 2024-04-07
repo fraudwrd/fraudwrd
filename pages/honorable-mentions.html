@@ -5,4 +5,43 @@ permalink: /honorable-mentions/
 weight: 4
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/images/5.png" | prepend: site.baseurl }}" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honorable Mentions</title>
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/5.png" | prepend: site.baseurl }}" >
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image {
+            width: 337px;
+            height: 337px;
+        }
+
+        .text {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="/images/5.png" alt="Image" class="image">
+    </div>
+    <div class="text">shrub</div>
+</body>
