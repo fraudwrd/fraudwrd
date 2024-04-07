@@ -1,9 +1,9 @@
 ---
-title: Digital Minimalism
-tags: [Social Media, Minimalism, Technology]
+title: Test Blog
+tags: [:3c]
 style: 
 color: 
-description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
+description: :3 :3 :3 :3 :3
 ---
 
 Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
