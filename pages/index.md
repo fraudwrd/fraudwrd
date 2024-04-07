@@ -45,7 +45,7 @@ permalink: /
 <h1 class="page-title">Click for a surprise</h1>
 
 <div class="scroll-text">
-  <span class="rainbow-text">very important disclaimer: this page is NOT to be taken seriously</span>
+  <span class="rainbow-text">very important disclaimer: this portion of the page is NOT to be taken seriously</span>
 </div>
 
 <script>
