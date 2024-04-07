@@ -6,6 +6,8 @@ color:
 description: Welcome to my website! If you're interested into reading more about me and why I created this website, feel free to read this blog post!
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
+
 Welcome to my website! I am fraud, and this blog post will just be going into why I made this website and a brief insight into who I am.
 
 ## Why did I create this website?
