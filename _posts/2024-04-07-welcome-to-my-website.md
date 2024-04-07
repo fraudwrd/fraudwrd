@@ -15,3 +15,12 @@ The reason behind the creation of this website is rather comical. A friend of mi
 
 ## Who am I?
 I am fraudwrd, or fraud for short. Now, I know that isn't very descriptive, so let me provide a brief insight into who I am. I am a male from Las Vegas, Nevada, and I have a huge passion for Law Enforcement. I've always enjoyed the thought of making a difference, despite the risks of the job. Criminal Justice is my honey, saving lives is my jam (only select few individuals will understand that reference). Anyways, I am also passionate about motor vehicles, as the thought of tuning and driving vehicles you normally wouldn't see on the roadway is a blast! I'll normally attempt to partake in local events that pertain to both, and I have a good amount of media that pertains to both car shows and police events. Now, to move more into online interests, I love real-world roleplay groups, and I love creating experiences on Roblox that have to do with just that! I'm an amateur Luau programmer, and I really only focus on quality-of-life features when thrown into a studio. Tidying up a game and making it function is awesome, especially when you get to see the final product! I also enjoy managing groups, as handling all the boring paperwork that nobody else wants to do is pretty fun contrary to popular belief. I also enjoy hopping into a photo editing program and brewing up a cool vehicle livery/wrap! I normally only do this for my own servers, but occasionally I'll make free releases and take commissions. You can see some of my liveries in the 'My Work' portion of this website whenever that's finished. Well, that's a basic insight into who I am, so I hope you had a good read, and although the Blog is a cool feature, I don't know how often I'll make posts to it. I hope you have a great rest of your day!
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var attribution = document.getElementById("attribution");
+    if (attribution) {
+        attribution.style.display = "none";
+    }
+});    
+</script>
