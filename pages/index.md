@@ -45,7 +45,7 @@ permalink: /
 <h1 class="page-title">Click for a surprise</h1>
 
 <div class="scroll-text">
-  <span class="rainbow-text">BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD</span>
+  <span class="rainbow-text">this page is NOT to be taken seriously</span>
 </div>
 
 <script>
