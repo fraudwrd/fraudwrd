@@ -1,58 +1,15 @@
 ---
-title: Test Blog
-tags: [Testing]
+title: Welcome To My Website
+tags: [General]
 style: 
 color: 
-description: This post is just so I can test how to work this
+description: Welcome to my website! If you're interested into reading more about me and why I created this website, feel free to read this blog post!
 ---
 
-Source: [Nikhil Thota]
+Welcome to my website! I am fraud, and this blog post will just be going into why I made this website and a brief insight into who I am.
 
-A few months ago I was offered (and have since accepted) a full time offer to work at Facebook in San Francisco and in that time I have been reflecting on my own usage of social media and the amount of value it has added to my life.
+## Why did I create this website?
+The reason behind the creation of this website is rather comical. A friend of mine had informed me that he purchased a custom domain for his portfolio, so me being intrigued, I inquired into how he did it. Well, he showed me how he purchased his domain, and so I did the same. I had to decide between .xyz and .lol, so obviously I chose .lol. I actually had no intent to make this domain into an actual website, as it started out by being hosted by Google sites. Even then, there was nothing I had to really put on that Google site, so my website was rather boring. That was until that same friend reached out to me after he created his GitHub page, and offered to help me set up this one. Well, here we are. He helped me through the process, and now it is a fully-functional portfolio that will regularly be updated to keep it fresh and interesting for website viewers. My goal before wasn't really anything but an about me hidden behind a silly domain, but now, I can upload my past work and maintain a custom portfolio that isn't a generic PDF or Roblox talent post. At the time of writing this however, the 'My Work' portion of the website is blank, but it is intentional until I can upload relevant photos to go with some of my past work. By the time you see this, something will probably be there, but if there isn't, congrats on being an early bird to my website!
 
-A common trend I’ve been seeing is the urgency to delete all your social media IMMEDIATELY or even go completely off-the-grid to avoid the unimaginable long-term implications of having your attention and personal data potentially manipulated and abused. I don’t think that we can thrive in today’s world without utilizing the platforms that allow us such a dense level of interconnectivity. I’m not saying that things couldn’t be engineered better; what I am saying however, is that we can take control of how these platforms influence us and in a sense, take control of our own evolution.
-
-Anyways, here are five things I’ve done which have allowed me to be a participant in the digital world, but not have my attention micromanaged:
-
-## 1. Unsubscribe from irrelevant emails
-
-Inbox-zero isn’t a new idea but it’s infinitely more difficult to achieve this if you’re bombarded with emails from random retailers offering coupons and one-in-a-lifetime deals you’re never going to use.
-
-A simple way to de-clutter your inbox is to look at each email you receive from a subscription and if it’s not immediately relevant (or will be in the foreseeable future), just scroll to the bottom and hit that unsubscribe button. Over time you’ll receive less and less irrelevant emails and this will naturally translate into less stress in the back of your mind.
-
-And for those subscriptions and newsletters that you do want to keep, Unroll.me is a great tool I’ve used to manage the amount of content I see in my inbox. It allows you to wrap all relevant subscriptions into a daily newsletter that you see once and can tackle at your own leisure (it even allows you to unsubscribe directly from their platform!)
-
-## 2. Unfollow people on social media
-
-As you progress through school, jobs, projects, and whatever else you devote your time to, you tend to meet a lot of people who you may add on Facebook, follow on Instagram, but never develop a real relationship with. These acquaintances bloat your feeds and may cause you to miss out on important things that happen to those in your life who do matter.
-
-What I have done is unfollow (or mute) the people that I don’t spend time with in person or plan to in the future. This includes brands, groups, events or influencers who I don’t feel are genuinely inspiring me. The beauty of this is that you are freeing up more time and mental space to interact with the content and people who you truly do want to invest in.
-
-If you don’t want to be dramatic but still want more manageable social media feeds, the mute feature does thankfully exist. This allows you to mute someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
-
-## 3. Take occasional social media purges
-
-It’s no secret that social media messes with the reward circuitry in your brain. One of the best ways to see just how it works is to take a social media purge where you commit to not using it for a certain amount of time. I’ve been surprised at how reflexively I reach for my phone and even more surprised at the free time and mental clarity I have after a couple days of adjusting.
-
-In the past I’ve experimented with social media detoxes ranging from days to weeks and have found that the best strategy to avoid the temptation is to just delete the apps and not re-download until your purge is over. Most of the time you have an urge to check something, it’s simply a reflex and you won’t follow through since downloading the app again will take time and you will have caught yourself by then.
-
-Another strategy, courtesy of Kenton Prescott is to enact a recurring purge, where you keep your phone in airplane mode (or even Do Not Disturb) for some amount of hours a day, limiting the time you spend catching up on notifications. The idea is that everyone can wait a few hours for your attention, even in the case of emergencies.
-
-## 4. Turn off notifications for non-essential things
-
-This one is pretty simple, just turn off notifications for things that are not essential. Every time your phone or wearable buzzes, you’re losing precious mental bandwidth which can take up to 23 minutes to get back!
-
-In similar fashion to the previous steps, this takes some time and conscious effort daily where you take note of all notifications you get, evaluate if each one is worth the time, and turn off as necessary.
-
-## 5. Learn how to use built in tools
-
-One of my favorite features on my phone is Do Not Disturb. It allows you to silence all non-critical notifications for an indefinite amount of time. This is what I use when I’m working on school work, personal projects, or even this article. On both iOS and Android, you’re given fairly granular control over what is considered critical so you can pick and choose what is worth the focus lost from a distraction.
-
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*MAeS-4fEc0Y7T4VB.jpg" caption="iOS" %}
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*nF_H2-8oTY7C0a54.png" caption="Android" %}
-
-Apple and Google also fairly recently rolled out time management tools which allow the user to be restricted from certain applications after a given amount of use. This really helps to add an extra layer of discipline if you’re trying to build the habit of using your phone less.
-
-Minimalism isn’t a philosophy that demands you to sell everything you own, wear the same outfit for the rest of your life, and live out of your van. Rather, it’s taking a hard look at everything in your life and determining whether something truly provides happiness for you. Digital Minimalism is a subset of this way of thinking and is a philosophy that has allowed me to work in tech and be an active participant of social media, but also maintain my own level of free thinking and choose what I focus on.
-
-I hope this has helped at least one person out there better manage their digital engagement. When I was first starting my foray into this way of thinking, this documentary by Matt D'Avella really helped me understand what minimalism was all about and is something I’d recommend if you’d like to learn more!
+## Who am I?
+I am fraudwrd, or fraud for short. Now, I know that isn't very descriptive, so let me provide a brief insight into who I am. I am a male from Las Vegas, Nevada, and I have a huge passion for Law Enforcement. I've always enjoyed the thought of making a difference, despite the risks of the job. Criminal Justice is my honey, saving lives is my jam (only select few individuals will understand that reference). Anyways, I am also passionate about motor vehicles, as the thought of tuning and driving vehicles you normally wouldn't see on the roadway is a blast! I'll normally attempt to partake in local events that pertain to both, and I have a good amount of media that pertains to both car shows and police events. Now, to move more into online interests, I love real-world roleplay groups, and I love creating experiences on Roblox that have to do with just that! I'm an amateur Luau programmer, and I really only focus on quality-of-life features when thrown into a studio. Tidying up a game and making it function is awesome, especially when you get to see the final product! I also enjoy managing groups, as handling all the boring paperwork that nobody else wants to do is pretty fun contrary to popular belief. I also enjoy hopping into a photo editing program and brewing up a cool vehicle livery/wrap! I normally only do this for my own servers, but occasionally I'll make free releases and take commissions. You can see some of my liveries in the 'My Work' portion of this website whenever that's finished. Well, that's a basic insight into who I am, so I hope you had a good read, and although the Blog is a cool feature, I don't know how often I'll make posts to it. I hope you have a great rest of your day!
