@@ -9,8 +9,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello! I am fraudwrd, or fraud for short :wave:,<br>
+I have been on the internet for some time now, and it has been an exceptional experience! During my time online however, I have learned a variety of skills that may be of interest to anyone reading this wanting to hire me for their studio. I love doing management related duties, managing groups and handling all the boring paperwork is a fun pastime to me! I also pride myself in my moderation skills. I, as passionate as I am about law enforcement, maintain a non-bias, compassionate standpoint when it comes to moderation. Finally, if you've made it to here, I like to see myself as an amateur programmer in Luau. I mainly focus on quality-of-life features for experiences on Roblox.
 
 <div class="row">
 {% include about/skills.html title="Skills" source=site.data.other-skills %}
