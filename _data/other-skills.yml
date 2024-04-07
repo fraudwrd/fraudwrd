@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
+- name: Administrative Duties
   percentage: 95
-  color: info
+  color: danger
 
-- name: Adobe Illustrator
+- name: Moderation
   percentage: 90
-  color: success
+  color: info
