@@ -40,7 +40,7 @@ permalink: /
 
 <audio id="ping" src="/sounds/3.mp3"></audio>
 
-<h1 class="page-title" onmouseclick="playPing()">Click for Surprise</h1>
+<h1 class="page-title" onclick="playPing()">Click for a surprise</h1>
 
 <div class="scroll-text">
   <span class="rainbow-text">BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD | BREAKING NEWS: FRAUD IS A FRAUD</span>
