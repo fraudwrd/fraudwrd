@@ -1,4 +1,4 @@
-### Hi there 👋
+### the one and only github repo for fraudwrd's website, and to those seeing this from my github profile, hi!
 
 <!--
 **fraudwrd/fraudwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
