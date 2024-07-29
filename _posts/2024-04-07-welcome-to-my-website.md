@@ -1,6 +1,6 @@
 ---
 title: Welcome To My Website
-tags: [General]
+tags: [Important]
 style: 
 color: 
 description: Welcome to my website! If you're interested into reading more about me and why I created this website, feel free to read this blog post!
