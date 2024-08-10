@@ -7,17 +7,46 @@ permalink: /
 
 {% include landing.html %}
  
-<button>
-    P L A Y
-    <div id="clip">
-        <div id="leftTop" class="corner"></div>
-        <div id="rightBottom" class="corner"></div>
-        <div id="rightTop" class="corner"></div>
-        <div id="leftBottom" class="corner"></div>
-    </div>
-    <span id="rightArrow" class="arrow"></span>
-    <span id="leftArrow" class="arrow"></span>
-</button>
+<style>
+@keyframes rainbow {
+  0% { color: red; }
+  20% { color: orange; }
+  40% { color: yellow; }
+  60% { color: green; }
+  80% { color: blue; }
+  100% { color: violet; }
+}
+
+.page-title {
+  animation: rainbow 5s infinite; /* Change 5s to adjust speed */
+  text-align: center; /* Center the text */
+  cursor: pointer; /* Change cursor on hover */
+}
+
+.scroll-text {
+  text-align: center
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.scroll-text .rainbow-text {
+  display: inline-block;
+  animation: scroll 10s linear infinite; /* Change 10s to adjust speed */
+}
+
+@keyframes scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
+<audio id="ping" src="/sounds/3.mp3"></audio>
+
+<h1 class="page-title">Click for a surprise</h1>
+
+<div class="scroll-text">
+  <span class="rainbow-text">very important disclaimer: this portion of the page is NOT to be taken seriously</span>
+</div>
 
 <script>
  document.querySelector('.page-title').addEventListener('click', function() {
