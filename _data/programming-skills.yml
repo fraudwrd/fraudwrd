@@ -1,7 +1,7 @@
-- name: Livery Design
-  percentage: 50
+- name: Car Tuning (A-Chassis)
+  percentage: 99
   color: success
 
-- name: Luau Programming
-  percentage: 25
+- name: Livery Design
+  percentage: 50
   color: secondary
