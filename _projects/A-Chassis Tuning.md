@@ -2,7 +2,7 @@
 name: A-Chassis Tuning
 tools: [Car Tuning]
 image: /images/17.png
-description: This post details my experience with A-Chassis Tuning on Roblox.
+description: This post details my experience with A-Chassis Tuning on Roblox
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
