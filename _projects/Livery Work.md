@@ -9,7 +9,8 @@ description: This post contains some of my liveries that I have made.
 
 Below, you can find images of some liveries I have made for the Roblox experience "Maple County." These were made for the only officially endorsed
 and CRP Faculty-ran private server formerly known as the Central Roleplay Community Official Whitelisted. I have made other liveries for Maple County,
-however those will not be included here as they were public releases.<br>
+however those will not be included here as they were public releases.
+<br>
 
 <img src="/images/6.png" width="600"/>
 <img src="/images/7.png" width="600"/>
