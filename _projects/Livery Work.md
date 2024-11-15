@@ -2,12 +2,14 @@
 name: Livery Work
 tools: [Liveries]
 image: /images/4.png
-description: This post contains my livery work for the Central Roleplay Community's Official Whitelisted server!
+description: This post contains some of my liveries that I have made.
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
 
-# Central Roleplay Community Official Whitelisted Liveries
+Below, you can find images of some liveries I have made for the Roblox experience "Maple County." These were made for the only officially endorsed
+and CRP Faculty-ran private server formerly known as the Central Roleplay Community Official Whitelisted. I have made other liveries for Maple County,
+however those will not be included here as they were public releases.
 
 <img src="/images/6.png" width="600"/>
 <img src="/images/7.png" width="600"/>
