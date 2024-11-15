@@ -12,6 +12,8 @@ However, I have done a variety of different tunes primarily for the Roblox exper
 have been re-tuned by me, with the exception of a few that weren't complete before my resignation. For anyone interested, you can join the experience 
 and try out the starter pickup truck, or if you're an experienced player, the 2021 Camaro, 2015 Mustang, or 2020 Dodge Charger Hellcat.
 
+<img src="/images/3.gif" width="600"/>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     var attribution = document.getElementById("attribution");
