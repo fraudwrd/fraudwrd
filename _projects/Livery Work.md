@@ -2,7 +2,7 @@
 name: Livery Work
 tools: [Liveries]
 image: /images/18.png
-description: This post contains some of my liveries that I have made
+description: This post contains some of my liveries that I have made within Roblox
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
