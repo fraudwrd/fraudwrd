@@ -2,7 +2,7 @@
 name: Moderation Experience
 tools: [Moderation]
 image: /images/2.jpg
-description: This post details some of my past moderation experience
+description: This post details some of my past moderation experience within Roblox
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
