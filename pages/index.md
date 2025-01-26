@@ -25,7 +25,7 @@ permalink: /
 
 </style>
 
-<audio id="ping" src="/sounds/3.mp3"></audio>
+<audio id="ping" src="/sounds/26.mp3"></audio>
 
 <h1 class="page-title">Click for a surprise</h1>
 
