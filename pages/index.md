@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });    
 document.addEventListener("DOMContentLoaded", function() {
-    const apiKey = 'e72e59c858c24149a8aa0cd3e442a110841bf6b8';
+    const apiKey = '046fec97b651917ca87605b1c98002bba3859f91';
     const apiUrl = 'https://api.cptmilk.xyz/visit?api_key=' + apiKey;
 
     // POST request increments the visitor count
