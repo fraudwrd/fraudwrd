@@ -1,7 +1,7 @@
 - name: Administrative Duties
-  percentage: 95
+  percentage: 99
   color: danger
 
 - name: Moderation
-  percentage: 90
+  percentage: 99
   color: info
