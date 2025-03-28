@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | prepend: site.baseurl }}" >
 
 # **About Me**
 
