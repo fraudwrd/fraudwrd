@@ -1,7 +1,7 @@
-- name: Car Tuning (A-Chassis)
+- name: Car Tuning (Roblox A-Chassis)
   percentage: 99
   color: success
 
-- name: Livery Design
-  percentage: 50
+- name: Building (Roblox)
+  percentage: 70
   color: secondary
