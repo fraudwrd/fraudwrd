@@ -41,7 +41,7 @@ weight: 4
 </head>
 <body>
     <div class="image-container">
-        <img src="/images/5.png" alt="Image" class="image">
+        <img src="/images/25.png" alt="Image" class="image">
     </div>
     <div class="text">shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub
     shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub shrub</div>
