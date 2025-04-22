@@ -9,7 +9,7 @@ weight: 3
 
 # **About Me**
 
-Hello! I am fraudwrd, or fraud for short. I have been on the internet for some time now, and it has been an exceptional experience! During my time online however, I have learned a variety of skills that may be of interest to anyone reading this wanting to hire me for their studio. Below, you can find what I am most skilled at, and you can find some of my work displaying these skills in the 'work' portion of my website.
+Hello! I am fraudwrd, or fraud for short. I have been on the internet for some time now, and it has been an exceptional experience! During my time online however, I have learned a variety of skills that may be of interest to anyone reading this wanting to hire me for their studio. Below, you can find what I am most skilled at, and you can find some of my work displaying these skills in the 'My Work' portion of my website.
 
 <div class="row">
 {% include about/skills.html title="Management Skills" source=site.data.other-skills %}
