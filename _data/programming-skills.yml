@@ -3,5 +3,5 @@
   color: success
 
 - name: Building (Roblox)
-  percentage: 70
+  percentage: 45
   color: secondary
